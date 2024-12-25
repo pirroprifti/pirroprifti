@@ -3,7 +3,7 @@
 <h2>👨‍💻 Quantitative Finance & Data Science Projects:</h2>
 
 - <b>Commodities</b>
-  - [AGT Pipeline Natural Gas Forecasting](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [AGT Pipeline Natural Gas Forecasting](https://github.com/pirroprifti/AGT-Pipeline-Natural-Gas-Forecasting)
 - <b>Credit & Loan Modeling</b>
   - [A Study of Default: Lending Club](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
 - <b>Option Pricing</b>
