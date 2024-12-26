@@ -7,7 +7,7 @@
 - <b>Credit & Loan Modeling</b>
   - [A Study of Default: Lending Club](https://github.com/pirroprifti/A-Study-of-Default-Lending-Club/tree/main) 
 - <b>Options</b>
-  - [Comprehensive Option Pricer](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Comprehensive Option Pricer](https://github.com/pirroprifti/Options-Pricer)
 - <b>Trading & Portfolio Construction</b>
   - [Iterative Backtester](https://github.com/joshmadakor1/EncrypterPOC)
   
