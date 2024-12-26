@@ -5,7 +5,7 @@
 - <b>Commodities</b>
   - [AGT Pipeline Natural Gas Forecasting](https://github.com/pirroprifti/AGT-Pipeline-Natural-Gas-Forecasting)
 - <b>Credit & Loan Modeling</b>
-  - [A Study of Default: Lending Club](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
+  - [A Study of Default: Lending Club](https://github.com/pirroprifti/A-Study-of-Default-Lending-Club/tree/main) 
 - <b>Option Pricing</b>
   - [Comprehensive Option Pricer](https://github.com/joshmadakor1/Sentinel-Lab)
 - <b>Trading & Portfolio Construction</b>
