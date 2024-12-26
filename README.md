@@ -16,6 +16,7 @@
   <li>Statistical Modeling (Python, R)</li>
   <li>Machine Learning & Data Science</li>
   <li>Quantitative Finance: Fixed Income, Energy Markets, Derivatives</li>
+  <li>Quantamental Finance</li>
   <li>Mathematical Optimization & Algorithms</li>
 </ul>
 
