@@ -9,7 +9,7 @@
 - <b>Options</b>
   - [Comprehensive Option Pricer](https://github.com/pirroprifti/Options-Pricer)
 - <b>Trading & Portfolio Construction</b>
-  - [Iterative Backtester](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Iterative Backtester](https://github.com/pirroprifti/Iterative-Backtester/tree/main)
   
 <h2>🚀 Skills & Interests:</h2>
 <ul>
