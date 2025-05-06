@@ -7,6 +7,7 @@
 - <b>Credit & Loan Modeling</b>
   - [A Study of Default: Lending Club](https://github.com/pirroprifti/A-Study-of-Default-Lending-Club/tree/main) 
 - <b>Options</b>
+  - [American Options: Least Squares Monte Carlo](https://github.com/pirroprifti/American-Option-Pricing/tree/main)
   - [Comprehensive Option Pricer](https://github.com/pirroprifti/Options-Pricer)
 - <b>Trading & Portfolio Construction</b>
   - [Iterative Backtester](https://github.com/pirroprifti/Iterative-Backtester/tree/main)
